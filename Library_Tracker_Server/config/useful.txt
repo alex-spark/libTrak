@@ -1,0 +1,7 @@
+db.users.insert({
+   "_id":getNextSequence("userid"),
+   "username":"Apple",
+   "password":"Apple"})
+
+// Using this script to send json.
+
