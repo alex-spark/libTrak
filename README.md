@@ -13,7 +13,7 @@ Technology Details
 Server Side:
 Technology	NODE JS
 Framework 	EXPRESS JS
-Programming language 	JavaScript and python
+Programming language 	JavaScript and python 
 Data exchange format 	JSON by REST APIs
 Encryption used 	Advanced Encryption Standard (AES)
 Operating system	Linux Ubuntu
