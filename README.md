@@ -51,6 +51,6 @@ Server code runs on NODE.js using express.js
 Server has dedicated methods which accepts the requests and data in the JSON format.
 Server is connected to MongoDB which is present in the cloud hosted by Mongo Labs.MongoDB is purely NoSQL DB. 
 
-Video Link:
+Video Link: 
 https://www.youtube.com/watch?v=hlMtsJnDzVA&feature=youtu.be
 
